@@ -6,4 +6,5 @@ folder. </li>
 <li>The API classes are avaiable in <strong>API</strong> folder. The <strong>bdh</strong> folder contains a class to connect with the database which is
 made avaiable through <strong>hwtdb.sql</strong>.</li>
 <li>The the RESTful resource accepts and returns data in <strong>JSON</strong> format.</i>
+<li>For the frontend connectivity use Postman API client ot implement your own frontend.</li>
 </ul>
